@@ -1,0 +1,1 @@
+extension EnumExtension on Map {}
